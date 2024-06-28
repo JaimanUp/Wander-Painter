@@ -14,7 +14,7 @@ size(500, 500);
 stroke(0, 3);
 strokeWeight(0.5);
 
-img=loadImage("yo.jpg");
+img=loadImage("jdelosrios.png");
 img.resize(width, height);
 //image(img,0,0);
 
